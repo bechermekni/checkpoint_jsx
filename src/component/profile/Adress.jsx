@@ -1,5 +1,7 @@
+
+const adress = "Mon adresse : Rue Mahmoud Mnakbi Béja"
 function Address() {
-  return <p>Mon adresse : Rue Mahmoud Mnakbi Béja</p>;
+  return <p> {adress}</p>;
 }
 
 export default Address;

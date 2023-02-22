@@ -1,5 +1,6 @@
+const name = "Je suis Mekni Toujani Becher";
 function FullName() {
-  return <h2>Je suis Mekni Toujani Becher</h2>;
+  return <h2>{name}</h2>;
 }
 
 export default FullName;
